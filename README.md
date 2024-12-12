@@ -1,0 +1,1 @@
+This Java, utilizing Selenium WebDriver, automates the leave application process on the Huhoka web application. It performs essential steps like logging in, navigating to the leave application page, selecting leave type, selecting leave dates, and entering the reason for leave, ensuring a smooth and efficient workflow.
